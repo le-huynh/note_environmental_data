@@ -6,3 +6,11 @@ Code and personal notes for:
 by [Milos Popovic](https://github.com/milos-agathon).  
 - [netCDF in R](https://pjbartlein.github.io/REarthSysSci/netCDF.html) by Pat Bartlein and Gabriel Abreu-Vigil.  
 
+## The timelapse map of average July temperatures (2016-2019) for Japan
+
+![alt text](https://github.com/le-huynh/note_environmental_data/blob/main/era5_land/KrigR_japan_july_temp.gif?raw=true)
+
+## The timelapse map of average July temperatures (2014-2015) for Switzerland 
+
+![alt text](https://github.com/le-huynh/note_environmental_data/blob/main/era5_land/KrigR_CHE_july_temp.gif?raw=true)
+
