@@ -1,4 +1,4 @@
-# note_environmental_date
+# note_environmental_data
 
 Code and personal notes for:  
 - [Visualize climate data with R](https://nordicesmhub.github.io/climate-data-tutorial/04-visualization-R/index.html).  
